@@ -8,7 +8,7 @@ this is my blog, hi :p
 
 ![axemaki](/assets/axemaki.png)
 
-#baddab
+
     <style>
         body { 
     background-image: url('axemaki.png'); /* Path to your image */ 
@@ -20,5 +20,5 @@ this is my blog, hi :p
             } 
       
     
-    </style>
+ 
 
