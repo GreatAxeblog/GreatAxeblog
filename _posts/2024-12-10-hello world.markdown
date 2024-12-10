@@ -7,7 +7,7 @@ categories: stuff n things
 HELLO world 
 
 ![chroma](/assets/hallo.png)
-<style>
+    <style>
         body { 
     background-image: url('hallo.png'); /* Path to your image */ 
     background-color:#baddab;
