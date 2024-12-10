@@ -37,7 +37,7 @@ plugins:
 
 lsi: false
 safe: true
-source: \GreatAxeblog
+source: /GreatAxeblog
 incremental: false
 highlighter: rouge
 gist:
