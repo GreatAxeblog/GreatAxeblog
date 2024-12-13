@@ -8,13 +8,14 @@ Hello world!
 
 <body>
     <h2>Welcome to my blog!
-        <code>&lt;img&gt;</code> tag:
-    </h2>
     <img src="hi.gif" alt="hiiii" width="400" height="300" />
+    <h2>
+    <body>
     <style>
         body { 
     background-color:#baddab; 
             } 
     </style>
+<body>
 
     yap here
