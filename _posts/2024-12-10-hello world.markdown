@@ -4,7 +4,7 @@ title:  "Hello World!"
 date:   2024-12-10 14:22:00 -0500
 categories: stuff n things
 ---
-Hello world! 
+Hello world!          
     <img src="{{ site.baseurl }}/assets/hi.gif" alt="Hiii" width="80" height="60" />
         <style>
         body { 
