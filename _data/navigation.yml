@@ -1,4 +1,4 @@
 - name: Home
-  link: /
+  link: /index.markdown
 - name: About
-  link: /about.html
+  link: /about.markdown
