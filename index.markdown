@@ -8,7 +8,6 @@ layout: home
 ![When are you gonna start a manga blog, Axeblade?](/assets/blawg.png)
     <style>
         body { 
-    background-image: url('blawg.png'); /* Path to your image */ 
     background-color:#baddab;
     background-repeat: no-repeat; /* Prevent repetition */ 
     height: 100vh; /* Full height of the viewport */ 

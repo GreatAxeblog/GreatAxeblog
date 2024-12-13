@@ -6,6 +6,7 @@ categories: stuff n things
 ---
 Hello world! 
 
+![When are you gonna start a manga blog, Axeblade?](\assets\hi.gif)
 <body>
     <h2>Welcome to my blog!
     <h2>
