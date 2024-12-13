@@ -19,6 +19,7 @@ Hello world!
     background-color:#baddab; 
             } 
     </style>
-    
+    <body>
+
 
 I'm starting this blog winter 2024 as something to do while I recover from surgery! I don't know how much I'll post, but expect lots of yapping about things I find interesting!
