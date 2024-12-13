@@ -5,7 +5,8 @@ date:   2024-12-10 14:22:00 -0500
 categories: stuff n things
 ---
 Hello world! 
-
+[id]: assets/hi.gif  "Optional title attribute"
+![Alt text](/assets/hi.gif "Optional title")
 ![Hello!](/assets/hi.gif)
     <body>
     <h2>Welcome to my blog!
