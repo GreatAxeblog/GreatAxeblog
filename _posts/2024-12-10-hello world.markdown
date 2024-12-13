@@ -6,11 +6,11 @@ categories: stuff n things
 ---
 Hello world! 
 
-![When are you gonna start a manga blog, Axeblade?](/assets/hi.gif)
+![Hello!](/assets/hi.gif)
     <body>
     <h2>Welcome to my blog!
     <h2>
-    <img src="/assets/hi.gif" width="400" height="300" />
+    <img src="{{ /GreatAxeblog }}/assets/hi.gif" width="400" height="300" />
     <h2>
     <body>
     <style>
