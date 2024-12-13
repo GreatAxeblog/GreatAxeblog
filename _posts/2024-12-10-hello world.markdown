@@ -6,11 +6,11 @@ categories: stuff n things
 ---
 Hello world! 
 
-![When are you gonna start a manga blog, Axeblade?](\assets\hi.gif)
+![When are you gonna start a manga blog, Axeblade?](/assets/hi.gif)
 <body>
     <h2>Welcome to my blog!
     <h2>
-    <img src="assets\hi.gif" alt="hiiii" width="400" height="300" />
+    <img src="/assets/hi.gif" alt="hiiii" width="400" height="300" />
     <h2>
     <body>
     <style>
@@ -20,4 +20,5 @@ Hello world!
     </style>
 <body>
 
-    yap here
+    
+    I'm starting this blog winter 2024 as something to do while I recover from surgery! I don't know how much I'll post, but expect lots of yapping about things I find interesting!
