@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![axemaki](/assets/blawg.png)
+![When are you gonna start a manga blog, Axeblade?](/assets/blawg.png)
     <style>
         body { 
     background-image: url('blawg.png'); /* Path to your image */ 

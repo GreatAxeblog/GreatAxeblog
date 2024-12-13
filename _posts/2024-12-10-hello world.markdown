@@ -9,7 +9,7 @@ Hello world!
 <body>
     <h2>Welcome to my blog!
     <h2>
-    <img src="/assets/hi.gif" alt="hiiii" width="400" height="300" />
+    <img src="assets\hi.gif" alt="hiiii" width="400" height="300" />
     <h2>
     <body>
     <style>
