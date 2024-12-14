@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![When are you gonna start a manga blog, Axeblade?](/assets/blawg.png)
+![When are you gonna start a manga blog, Axeblade?]({{ site.baseurl }}/assets/blawg.png)
     <style>
         body { 
     background-color:#baddab;
