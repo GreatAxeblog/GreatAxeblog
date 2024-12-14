@@ -6,7 +6,7 @@ permalink: /about/
 
 this is my blog, hi :p
 
-![axemaki](/assets/axemaki.png)
+![axemaki]({{ site.baseurl }}/assets/axemaki.png)
     <style>
         body { /* background-image: url('axemaki.png');  Path to your image */ 
     background-color:#baddab;
