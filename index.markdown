@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![When are you gonna start a manga blog, Axeblade?]({{ site.baseurl }}/assets/blawg.png)
+![peetah]({{ site.baseurl }}/assets/IMG_9637.png){:height="250px" width="300px"}
     <style>
         body { 
     background-color:#baddab;
