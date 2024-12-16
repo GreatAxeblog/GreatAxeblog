@@ -7,7 +7,7 @@ title: "Book Club"
 category: Book Club
 ---
 
-![axe, when are you gonna make a blog?]({{ site.baseurl }}/assets/blawg.png)
+![axe, when are you gonna make a blog?]({{ site.baseurl }}/book-club/assets/images/blawg.png)
     <style>
         body { 
     background-color:#baddab;
